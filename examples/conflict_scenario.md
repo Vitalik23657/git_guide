@@ -1,0 +1,1 @@
+This line was modified by both "feat/conflict-a" and "feat/conflict-b" branches to demonstrate conflict resolution.
