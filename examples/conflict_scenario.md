@@ -1,0 +1,1 @@
+This line was modified by "feat/conflict-a" branch to show how conflicts work.
