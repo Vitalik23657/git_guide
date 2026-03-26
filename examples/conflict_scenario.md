@@ -1,1 +1,1 @@
-This line was changed by "feat/conflict-b" branch, and it will collide with "feat/conflict-a" branch.
+This line was modified by both "feat/conflict-a" and "feat/conflict-b" branches to demonstrate conflict resolution.
