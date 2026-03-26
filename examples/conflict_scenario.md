@@ -1,0 +1,1 @@
+This line was changed by "feat/conflict-b" branch, and it will collide with "feat/conflict-a" branch.
